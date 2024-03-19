@@ -1,0 +1,10 @@
+librosa
+matplotlib
+numpy
+scipy
+scikit-learn
+tqdm
+music21
+pandas
+plotly
+requests
